@@ -1,9 +1,9 @@
 # [GitHub Stats Visualization](https://github.com/jasongaylord/github-stats)
 
-<a href="https://github.com/jasongaylord/github-stats">
+<a href="https://github.com/cardosojvictor/github-stats">
    
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/cardosojvictor/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/cardosojvictor/github-stats/blob/master/generated/languages.svg)
 
 </a>
 
